@@ -12,7 +12,7 @@ TEVIN P312 NETOV
   * Minimum FL: FL110
   * Maximum FL: FL230
 
-**Flights to/from Dar-es-Salaam (HTDA) or Zanzibar are to comply with the following:**
+**Flights to/from Dar-es-Salaam (HTDA) or Zanzibar (HTZA) are to comply with the following:**
 
   * Minimum FL: FL210 - due terrain enroute.
 
